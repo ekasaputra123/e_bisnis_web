@@ -1,0 +1,6 @@
+{
+  "name": "Malang Mbois — Portal Layanan Publik & Mahasiswi Kota Malang",
+  "description": "Portal E-Government Government-to-Citizen (G2C) Kota Malang bertema Biru & Putih yang disesuaikan untuk mahasiswa/mahasiswi rantau 18–22 tahun, mengedepankan Aksesibilitas, Responsivitas SAMBAT, Transparansi APBD 2026, dan Edukasi Budaya.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
